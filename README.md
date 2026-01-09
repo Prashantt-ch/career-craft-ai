@@ -57,18 +57,6 @@ Version Control: Git & GitHub
 👉 Live Application:
 https://dynamic-clafoutis-d633b9.netlify.app/
 
-📂 Project Structure (Simplified)
-career-craft-ai/
-├── src/
-│   ├── components/
-│   ├── App.tsx
-│   └── index.tsx
-├── public/
-├── package.json
-├── vite.config.ts
-├── netlify.toml
-└── README.md
-
 ⚙️ Environment Variables
 
 This project uses environment variables for secure API access.
